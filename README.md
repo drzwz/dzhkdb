@@ -21,7 +21,7 @@ call kdb+/q from DZH formulas
 
 mktid:=STRFIND('`SH`SZ`SF`HK`SS`B$`OF`$$`SG`SC`ZC`DC`FI`ZI`IX`HS`BO`SW`NS`NY`DJ`DA`FT`FR`SP`FX`IC`SM`LM`NX`CB`CX`IB`Z$`ZZ',MARKETLABEL,1);
 
-RET:"dzhkdb@CALC"(mktid,5100,1.2);  {第二个参数为加载了qfml.q的kdb的端口号，第三个参数为.fml.f函数的索引号，表示要调用.fml.f[1.2]函数}
+RET:"dzhkdb@CALC"(mktid,5001,1.2);  {第二个参数为加载了qfml.q的kdb的端口号，第三个参数为.fml.f函数的索引号，表示要调用.fml.f[1.2]函数}
 
 ## 注意
 
