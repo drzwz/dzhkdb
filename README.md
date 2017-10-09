@@ -3,7 +3,7 @@ call kdb+/q from DZH formulas
 
 ## dzhkdb功能
 
-    实现大智慧(DZH)行情软件的dll公式，将DZH数据传到kdb计算并返回结果，可以实现复杂的计算。
+    实现[大智慧(DZH)软件](http://www.gw.com.cn)的dll公式，将DZH数据传到kdb计算并返回结果，可以实现复杂的计算。
 
 ## 使用方法
 
